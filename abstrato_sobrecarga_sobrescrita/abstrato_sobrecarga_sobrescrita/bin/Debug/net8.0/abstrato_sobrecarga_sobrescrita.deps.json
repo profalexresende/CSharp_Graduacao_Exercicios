@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "abstrato_sobrecarga_sobrescrita/1.0.0": {
+        "runtime": {
+          "abstrato_sobrecarga_sobrescrita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstrato_sobrecarga_sobrescrita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

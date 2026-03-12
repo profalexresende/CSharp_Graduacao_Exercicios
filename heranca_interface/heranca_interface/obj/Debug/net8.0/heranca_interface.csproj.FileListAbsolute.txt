@@ -1,0 +1,14 @@
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.AssemblyInfoInputs.cache
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.AssemblyInfo.cs
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.csproj.CoreCompileInputs.cache
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\bin\Debug\net8.0\heranca_interface.exe
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\bin\Debug\net8.0\heranca_interface.deps.json
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\bin\Debug\net8.0\heranca_interface.runtimeconfig.json
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\bin\Debug\net8.0\heranca_interface.dll
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\bin\Debug\net8.0\heranca_interface.pdb
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.dll
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\refint\heranca_interface.dll
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.pdb
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\heranca_interface.genruntimeconfig.cache
+D:\ExerciciosCSharp\heranca_interface\heranca_interface\obj\Debug\net8.0\ref\heranca_interface.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExerciciosCSharp\\heranca_interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|d:\\exercicioscsharp\\heranca_interface\\heranca_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|solutionrelative:heranca_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|d:\\exercicioscsharp\\heranca_interface\\heranca_interface\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|solutionrelative:heranca_interface\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|d:\\exercicioscsharp\\heranca_interface\\heranca_interface\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|solutionrelative:heranca_interface\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|d:\\exercicioscsharp\\heranca_interface\\heranca_interface\\ibeneficio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|solutionrelative:heranca_interface\\ibeneficio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|d:\\exercicioscsharp\\heranca_interface\\heranca_interface\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB4BEBD-F32A-4089-BDC5-79A7F33BD8F7}|heranca_interface\\heranca_interface.csproj|solutionrelative:heranca_interface\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Desenvolvedor.cs",
+              "DocumentMoniker": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Desenvolvedor.cs",
+              "RelativeDocumentMoniker": "heranca_interface\\Desenvolvedor.cs",
+              "ToolTip": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Desenvolvedor.cs",
+              "RelativeToolTip": "heranca_interface\\Desenvolvedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:40:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Program.cs",
+              "RelativeDocumentMoniker": "heranca_interface\\Program.cs",
+              "ToolTip": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Program.cs",
+              "RelativeToolTip": "heranca_interface\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:34:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Gerente.cs",
+              "RelativeDocumentMoniker": "heranca_interface\\Gerente.cs",
+              "ToolTip": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Gerente.cs",
+              "RelativeToolTip": "heranca_interface\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:38:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBeneficio.cs",
+              "DocumentMoniker": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\IBeneficio.cs",
+              "RelativeDocumentMoniker": "heranca_interface\\IBeneficio.cs",
+              "ToolTip": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\IBeneficio.cs",
+              "RelativeToolTip": "heranca_interface\\IBeneficio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:37:40.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Funcionario.cs",
+              "RelativeDocumentMoniker": "heranca_interface\\Funcionario.cs",
+              "ToolTip": "D:\\ExerciciosCSharp\\heranca_interface\\heranca_interface\\Funcionario.cs",
+              "RelativeToolTip": "heranca_interface\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:36:48.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
